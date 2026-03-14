@@ -1,0 +1,56 @@
+match_no,stage,group,date,venue,city,team1,team2,winner,Win_type,Margin
+1,Group,A,2026-02-07,R. Premadasa Stadium,Colombo,Netherlands,Pakistan,Pakistan,Wickets,3
+2,Group,C,2026-02-07,Eden Gardens,Kolkata,West Indies,Scotland,West Indies,Runs,35
+3,Group,A,2026-02-07,Wankhede Stadium,Mumbai,India,USA,India,Runs,29
+4,Group,D,2026-02-08,M.A. Chidambaram Stadium,Chennai,Afghanistan,New Zealand,New Zealand,Wickets,5
+5,Group,C,2026-02-08,Wankhede Stadium,Mumbai,England,Nepal,England,Runs,4
+6,Group,B,2026-02-08,R. Premadasa Stadium,Colombo,Sri Lanka,Ireland,Sri Lanka,Runs,20
+7,Group,C,2026-02-09,Eden Gardens,Kolkata,Scotland,Italy,Scotland,Runs,73
+8,Group,B,2026-02-09,R. Premadasa Stadium,Colombo,Oman,Zimbabwe,Zimbabwe,Wickets,8
+9,Group,D,2026-02-09,Narendra Modi Stadium,Ahmedabad,South Africa,Canada,South Africa,Runs,57
+10,Group,A,2026-02-10,Arun Jaitley Stadium,Delhi,Namibia,Netherlands,Netherlands,Wickets,7
+11,Group,D,2026-02-10,M.A. Chidambaram Stadium,Chennai,New Zealand,UAE,New Zealand,Wickets,10
+12,Group,A,2026-02-10,Sinhalese Sports Club,Colombo,Pakistan,USA,Pakistan,Runs,32
+13,Group,D,2026-02-11,Narendra Modi Stadium,Ahmedabad,South Africa,Afghanistan,South Africa,Other,
+14,Group,B,2026-02-11,R. Premadasa Stadium,Colombo,Australia,Ireland,Australia,Runs,67
+15,Group,C,2026-02-11,Wankhede Stadium,Mumbai,England,West Indies,West Indies,Runs,30
+16,Group,B,2026-02-12,Pallekele Cricket Stadium,Kandy,Sri Lanka,Oman,Sri Lanka,Runs,105
+17,Group,C,2026-02-12,Wankhede Stadium,Mumbai,Nepal,Italy,Italy,Wickets,10
+18,Group,A,2026-02-12,Arun Jaitley Stadium,Delhi,India,Namibia,India,Runs,93
+19,Group,B,2026-02-13,R. Premadasa Stadium,Colombo,Australia,Zimbabwe,Zimbawe,Runs,23
+20,Group,D,2026-02-13,Arun Jaitley Stadium,Delhi,Canada,UAE,UAE,Wickets,5
+21,Group,A,2026-02-13,M.A. Chidambaram Stadium,Chennai,Netherlands,USA,Netherlands,Runs,93
+22,Group,B,2026-02-14,R. Premadasa Stadium,Colombo,Ireland,Oman,Ireland,Runs,96
+23,Group,C,2026-02-14,Eden Gardens,Kolkata,England,Scotland,England,Wickets,5
+24,Group,D,2026-02-14,Narendra Modi Stadium,Ahmedabad,New Zealand,South Africa,New Zealand,Wickets,7
+25,Group,C,2026-02-15,Wankhede Stadium,Mumbai,Nepal,West Indies,West Indies,Wickets,9
+26,Group,A,2026-02-15,M.A. Chidambaram Stadium,Chennai,Namibia,USA,USA,Runs,31
+27,Group,A,2026-02-15,R. Premadasa Stadium,Colombo,India,Pakistan,India,Runs,61
+28,Group,D,2026-02-16,Arun Jaitley Stadium,Delhi,Afghanistan,UAE,Afghanistan,Wickets,5
+29,Group,C,2026-02-16,Eden Gardens,Kolkata,England,Italy,England,Other,
+30,Group,B,2026-02-16,Pallekele Cricket Stadium,Kandy,Australia,Sri Lanka,Sri Lanka,Runs,24
+31,Group,D,2026-02-17,M.A. Chidambaram Stadium,Chennai,Canada,New Zealand,New Zealand,Wickets,8
+32,Group,B,2026-02-17,Pallekele Cricket Stadium,Kandy,Ireland,Zimbabwe,No Result,Other,
+33,Group,C,2026-02-17,Wankhede Stadium,Mumbai,Nepal,Scotland,Nepal,Wickets,7
+34,Group,D,2026-02-18,Arun Jaitley Stadium,Delhi,South Africa,UAE,South Africa,Wickets,6
+35,Group,A,2026-02-18,R. Premadasa Stadium,Colombo,Namibia,Pakistan,Pakistan,Runs,102
+36,Group,A,2026-02-18,Narendra Modi Stadium,Ahmedabad,India,Netherlands,India,Runs,17
+37,Group,C,2026-02-19,Eden Gardens,Kolkata,Italy,West Indies,West Indies,Runs,42
+38,Group,B,2026-02-19,R. Premadasa Stadium,Colombo,Sri Lanka,Zimbabwe,Zimbawe,Wickets,6
+39,Group,D,2026-02-19,M.A. Chidambaram Stadium,Chennai,Afghanistan,Canada,Afghanistan,Runs,82
+40,Group,B,2026-02-20,Pallekele Cricket Stadium,Kandy,Australia,Oman,Australia,Wickets,9
+41,Super Eight,1,2026-02-21,R. Premadasa Stadium,Colombo,New Zealand,Pakistan,Drawn,Other,
+42,Super Eight,1,2026-02-22,Pallekele Cricket Stadium,Kandy,Sri Lanka,England,England,Runs,51
+43,Super Eight,2,2026-02-22,Narendra Modi Stadium,Ahmedabad,South Africa,India,South Africa,Runs,76
+44,Super Eight,2,2026-02-23,Wankhede Stadium,Mumbai,West Indies,Zimbawe,West Indies,Runs,107
+45,Super Eight,1,2026-02-24,Pallekele Cricket Stadium,Kandy,Pakistan,England,England,Wickets,2
+46,Super Eight,1,2026-02-25,R. Premadasa Stadium,Colombo,New Zealand,Sri Lanka,New Zealand,Runs,61
+47,Super Eight,2,2026-02-26,Narendra Modi Stadium,Ahmedabad,South Africa,West Indies,South Africa,Wickets,9
+48,Super Eight,2,2026-02-26,M.A. Chidambaram Stadium,Chennai,India,Zimbawe,India,Runs,72
+49,Super Eight,1,2026-02-27,R. Premadasa Stadium,Colombo,New Zealand,England,England,Wickets,4
+50,Super Eight,2,2026-02-28,Pallekele Cricket Stadium,Kandy,Pakistan,Sri Lanka,Pakistan,Runs,5
+51,Super Eight,1,2026-03-01,Arun Jaitley Stadium,Delhi,Zimbawe,South Africa,South Africa,Wickets,5
+52,Super Eight,1,2026-03-01,Eden Gardens,Kolkata,India ,West Indies,India,Wickets,5
+53,Semi-Final,SF1,2026-03-04,Eden Gardens,Kolkata,New Zealand ,South Africa,New Zealand,Wickets,9
+54,Semi-Final,SF2,2026-03-05,Wankhede Stadium,Mumbai,India ,England,India,Runs,7
+55,Final,Final,2026-03-08,Narendra Modi Stadium,Ahmedabad,India,New Zealand,India,Runs,96
