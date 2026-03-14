@@ -143,7 +143,7 @@ This page highlights overall tournament trends.
 ---
 ## Campaign Overview 
 
-![Overview Dashboard](https://raw.githubusercontent.com/Mayank-analyst/T20-WC-STATISTICAL-ANALYSIS/main/DASHBOARD/CAMPAIGN%20OVERVIEW.png)
+![Overview](./DASHBOARD/CAMPAIGN%20OVERVIEW.png)
 
 # 2. Batting Analysis
 
@@ -170,7 +170,7 @@ This analysis helps identify the most aggressive and consistent batters.
 ---
 ## Batting Analysis 
 
-![Batting Analysis](https://raw.githubusercontent.com/Mayank-analyst/T20-WC-STATISTICAL-ANALYSIS/main/DASHBOARD/BATTING%20STATISTICAL%20ANALYSIS.png)
+![Batting Analysis](./DASHBOARD/BATTING%20STATISTICAL%20ANALYSIS.png)
 
 # 3. Bowling Analysis
 
@@ -197,7 +197,8 @@ This page highlights the most impactful bowlers in the tournament.
 ---
 ## Bowling Analysis
 
-![Bowling Analysis](https://raw.githubusercontent.com/Mayank-analyst/T20-WC-STATISTICAL-ANALYSIS/main/DASHBOARD/BOWLING%20STATISTICAL%20ANALYSIS.png)
+![Bowling Analysis](./DASHBOARD/BOWLING%20STATISTICAL%20ANALYSIS.png)
+
 # Key Insights
 
 Some notable insights from the analysis:
