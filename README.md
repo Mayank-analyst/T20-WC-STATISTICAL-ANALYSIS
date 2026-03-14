@@ -143,7 +143,7 @@ This page highlights overall tournament trends.
 ---
 ## Campaign Overview 
 
-![Overview](./DASHBOARD/CAMPAIGN%20OVERVIEW.png)
+![Overview](T20%20WC%20STATISTICAL%20ANALYSIS/DASHBOARD/CAMPAIGN%20OVERVIEW.png)
 
 # 2. Batting Analysis
 
@@ -170,7 +170,7 @@ This analysis helps identify the most aggressive and consistent batters.
 ---
 ## Batting Analysis 
 
-![Batting Analysis](./DASHBOARD/BATTING%20STATISTICAL%20ANALYSIS.png)
+![Batting Analysis](T20%20WC%20STATISTICAL%20ANALYSIS/DASHBOARD/BATTING%20STATISTICAL%20ANALYSIS.png)
 
 # 3. Bowling Analysis
 
@@ -197,7 +197,7 @@ This page highlights the most impactful bowlers in the tournament.
 ---
 ## Bowling Analysis
 
-![Bowling Analysis](./DASHBOARD/BOWLING%20STATISTICAL%20ANALYSIS.png)
+![Bowling Analysis](T20%20WC%20STATISTICAL%20ANALYSIS/DASHBOARD/BOWLING%20STATISTICAL%20ANALYSIS.png)
 
 # Key Insights
 
