@@ -170,7 +170,7 @@ This analysis helps identify the most aggressive and consistent batters.
 ---
 ## Batting Analysis 
 
-![Batting Analysis](T20%20WC%20STATISTICAL%20ANALYSIS/DASHBOARD/BATTING%20STATISTICAL%20ANALYSIS.png)
+![Batting Analysis](T20%20WC%20STATISTICAL%20ANALYSIS/DASHBOARD/BATTING%20STATISTICAL%20ANALSYSIS.png)
 
 # 3. Bowling Analysis
 
